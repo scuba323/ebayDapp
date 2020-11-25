@@ -38,5 +38,9 @@
     "webpack-dev-server": "^2.9.3",
     "express": "4.15.4",
     "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "dotenv": "^8.2.0"
   }
 }
